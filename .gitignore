@@ -1,0 +1,5 @@
+node_modules
+public/javascripts/bundle.js
+.tmp
+.idea
+npm-debug.log
